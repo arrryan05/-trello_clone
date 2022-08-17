@@ -1,8 +1,4 @@
 import React, { useEffect, useState } from "react";
-import "./App.css";
-
-return <div className="app">Trello;</div>;
-import React, { useEffect, useState } from "react";
 
 import Board from "./Components/Board/Board";
 
